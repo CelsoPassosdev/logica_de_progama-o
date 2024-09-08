@@ -1,2 +1,2 @@
-# logica_de_progama-o
-Resopotorio de codigo dos desafios
+# Logica de programação
+Repositorio de codigo dos desafios escritos em JavaScript.
